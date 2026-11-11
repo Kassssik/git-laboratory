@@ -1,2 +1,5 @@
-# git-laboratory-a-08-22
-Лабораторная работа по Git: первый коммит, ветвление и разрешение конфликтов.
+# Git laboratory
+
+Учебный проект по системе контроля версий Git.
+
+Project status: initial version
