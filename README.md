@@ -2,4 +2,4 @@
 
 Учебный проект по системе контроля версий Git.
 
-Project status: instructions added
+Project status: description and instructions added
